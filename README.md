@@ -35,9 +35,9 @@ Click on a file name to view its contents. Click again to close it.
 
 ## Screenshots
 
-![Extension Demo](screenshots/Screenshot%202024-07-14%20185034.png)
+![Extension Demo]("screenshots/Screenshot%202024-07-14%20185034.png")
 
-![Extension Demo](screenshots/Screenshot%202024-07-14%20185249.png)
+![Extension Demo]("screenshots/Screenshot%202024-07-14%20185249.png")
 
 
 
