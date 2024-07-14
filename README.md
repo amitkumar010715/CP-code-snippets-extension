@@ -35,10 +35,8 @@ Click on a file name to view its contents. Click again to close it.
 
 ## Screenshots
 
-![Extension Demo]("screenshots/Screenshot%202024-07-14%20185034.png")
-
-![Extension Demo]("screenshots/Screenshot%202024-07-14%20185249.png")
-
+![image](https://github.com/user-attachments/assets/3e249a64-3dfe-42b4-9b90-193b135d405f)
+![image](https://github.com/user-attachments/assets/a68899e1-b378-4658-a404-1571aa45dbf6)
 
 
 
