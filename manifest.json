@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Snippets",
+  "version": "1.0",
+  "description": "Access your GitHub repository code snippets anywhere.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon16.png"
+  },
+  "icons": {
+    "16": "icons/icon16.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
