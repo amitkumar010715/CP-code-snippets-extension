@@ -33,12 +33,11 @@ The extension will fetch and display the list of .cpp, .py, and .c++ files from 
 
 Click on a file name to view its contents. Click again to close it.
 
-Screenshots
-![Extension Demo](screenshot\Screenshot 2024-07-14 185034.png)
+## Screenshots
 
+![Extension Demo](screenshots/Screenshot%202024-07-14%20185034.png)
 
-
-![Extension Demo](screenshot\Screenshot 2024-07-14 185249.png)
+![Extension Demo](screenshots/Screenshot%202024-07-14%20185249.png)
 
 
 
